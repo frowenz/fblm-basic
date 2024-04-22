@@ -1,0 +1,14 @@
+#svg-obj {
+    object-fit: contain;
+    width: 100%;
+    height: auto;
+    pointer-events: none;
+}
+
+#svg-container {
+    overflow: hidden;
+    width: 100%;
+    aspect-ratio: 1;
+    /* border-radius: 3.5px; */
+    user-select: none;
+}
