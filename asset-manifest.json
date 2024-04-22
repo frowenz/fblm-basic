@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/fblm-basic/static/css/main.fb10eb37.css",
+    "main.js": "/fblm-basic/static/js/main.79be1176.js",
+    "static/js/453.4bbf3707.chunk.js": "/fblm-basic/static/js/453.4bbf3707.chunk.js",
+    "index.html": "/fblm-basic/index.html",
+    "main.fb10eb37.css.map": "/fblm-basic/static/css/main.fb10eb37.css.map",
+    "main.79be1176.js.map": "/fblm-basic/static/js/main.79be1176.js.map",
+    "453.4bbf3707.chunk.js.map": "/fblm-basic/static/js/453.4bbf3707.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fb10eb37.css",
+    "static/js/main.79be1176.js"
+  ]
+}
